@@ -6,6 +6,7 @@ I'm a Full-Stack Developer with over 9 years of experience building scalable app
 
 - 👨‍💻 Currently working as a Technical Product Lead in Angular Minds.
 - 💡 I enjoy learning and implementing new technologies, especially in **AI** and **Cloud Infrastructure**.
+- 🏞📸 I love hiking  and nature photography 
 
 ## 🔧 Technologies & Tools:
 
@@ -52,8 +53,3 @@ Note: I mostly write microblogs on LinkedIn.
 - [X](https://x.com/its_navanath)
 - [Medium](https://navanathjadhav.medium.com/)
 - [Website](https://everblogs.com/)
-
-## 😄 Fun Facts About Me
-
-- I love hiking 🏞 and nature photography 📸
-- I’m currently learning **AI and Machine Learning**
