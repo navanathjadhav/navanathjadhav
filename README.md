@@ -6,7 +6,7 @@ I'm a Full-Stack Developer with over 9 years of experience building scalable app
 
 - 👨‍💻 Currently working as a Technical Product Lead in Angular Minds.
 - 💡 I enjoy learning and implementing new technologies, especially in **AI** and **Cloud Infrastructure**.
-- 🏞📸 I love hiking  and nature photography 
+- 📸 I love hiking  and nature photography 
 
 ## 🔧 Technologies & Tools:
 
