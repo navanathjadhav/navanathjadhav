@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Navanath Jadhav!
 
-I'm a Full-Stack Developer with over 9 years of experience in building scalable applications, specializing in MEAN stack, MERN stack, and Cloud. I’m passionate about creating efficient solutions that scale in real-world environments.
+I'm a Full-Stack Developer with over 9 years of experience building scalable applications, specializing in MEAN stack, MERN stack, and Cloud. I’m passionate about creating efficient solutions that scale in real-world environments.
 
 ## 🚀 About Me:
 
@@ -14,7 +14,7 @@ I'm a Full-Stack Developer with over 9 years of experience in building scalable 
 - **Frontend**: Angular, React.js, HTML, CSS, TailwindCSS
 - **Databases**: PostgreSQL, MongoDB, Firestore
 - **Cloud**: AWS, GCP
-- **DevOps**: CI/CD, Docker, Kubernetes, Jenkins, Terraform
+- **DevOps**: CI/CD, Docker, Kubernetes, Jenkins
 
 ## 🚀 My Featured Repos
 
