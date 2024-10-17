@@ -17,6 +17,9 @@ I'm a Full-Stack Developer with over 9 years of experience building scalable app
 - **Cloud**: AWS, GCP
 - **DevOps**: CI/CD, Docker, Kubernetes, Jenkins
 
+## 📘 My Book:
+I’ve written a book focusing on **Node.js**, **Express.js**, and related technologies. You can find more details about my latest book **Node.js Express in Real World** on [Amazon](https://amzn.in/d/j6qyAY3). The book covers everything from basic concepts to scaling production-ready applications.
+
 ## 🚀 My Featured Repos
 
 ### [MongoDB Developer Roadmap](https://github.com/navanathjadhav/mongodb-developer-roadmap)
